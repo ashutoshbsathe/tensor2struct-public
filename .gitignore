@@ -1,3 +1,9 @@
+model.tar.gz
+vocab.bpe
+bart.large.tar.gz
+dict.txt
+encoder.json 
+
 __pycache__/
 .vscode/
 .DS_Store
